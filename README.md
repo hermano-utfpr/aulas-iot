@@ -1,6 +1,6 @@
 # Atividades a Distância (AD) da Disciplina de Internet das Coisas (IOT) - 2017
 
-Este projeto hospeda as Atividades da Disciplina de Tópicos - Internet das Coisas. Conteúdo que foi utilizado no ano de 2017 - Curso de Tecnologia em Sistemas para Internet - UTFPR - Campus Guarapuava.
+Este projeto hospeda as Atividades a Distância da Disciplina de Tópicos - Internet das Coisas. Conteúdo que foi utilizado no ano de 2017 - Curso de Tecnologia em Sistemas para Internet - UTFPR - Campus Guarapuava.
 
 As atividades aqui disponibilizadas auxiliam no aprendizado sobre Internet das Coisas (IoT) utilizando o simulador do Contiki, [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorials/Running-Contiki-NG-in-Cooja.html). Naquela data utilizamos a versão 2.7.
 
