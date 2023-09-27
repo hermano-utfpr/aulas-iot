@@ -6,7 +6,7 @@ Objetivo: obter conhecimento introdutório ao assunto Internet das Coisas.
 
 Assista com atenção os vídeos abaixo:
 
-[![](vid01.png)](https://www.youtube.com/watch?v=jlkvzcG1UMk)
+[![](vid01.png)](https://www.youtube.com/watch?v=0HtlzlEPgsY)
 
 [![](vid02.png)](https://www.youtube.com/watch?v=OCBtDSFxb4M)
 
