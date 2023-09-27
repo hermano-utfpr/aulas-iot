@@ -13,7 +13,7 @@ Conteúdo:
 - Sensores (Temperatura/Umidade/Luminosidade)
 - Programação dos Nós em C (Leds/Buttons/Sensors)
 - Comunicação entre os Nós (Unicast/Broadcast)
-- Comunicação 6LoWPAN e UDP
+- Comunicação 6LoWPAN, RPL e UDP
 - Roteamento de Borda (LBR) - 6LoWPAN e IPv6
 - Serviços Web (CoAP)
 - Simulação de Smart Home (junção protocolos)
