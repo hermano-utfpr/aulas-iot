@@ -6,9 +6,9 @@ Objetivo: obter conhecimento introdutório ao assunto Internet das Coisas.
 
 Assista com atenção os vídeos abaixo:
 
-[![](vid01.png)](https://www.youtube.com/watch?v=0HtlzlEPgsY)
+[![](vid01.png)](https://www.youtube.com/watch?v=jlkvzcG1UMk)
 
-[![](vid02.png)](https://www.youtube.com/watch?v=OCBtDSFxb4M)
+[![](vid02.png)](https://www.youtube.com/watch?v=0HtlzlEPgsY)
 
 [![](vid03.png)](https://www.youtube.com/watch?v=2byh2NAnVz4)
 
@@ -17,5 +17,4 @@ Assista com atenção os vídeos abaixo:
 **Passo 2**
 
 De acordo com os vídeos que você acabou de assistir, fale sobre a Internet das Coisas. O que você entendeu sobre a IoT?  Fale sobre algum assunto que você achou importante/interessante sobre a IoT? Critique. 
-
 
