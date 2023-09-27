@@ -1,4 +1,4 @@
-# aulas-iot
+# Atividades a Distância (AD) da Disciplina de Internet das Coisas (IOT) - 2017
 
 Este projeto hospeda as Atividades da Disciplina de Tópicos - Internet das Coisas. Conteúdo que foi utilizado no ano de 2017 - Curso de Tecnologia em Sistemas para Internet - UTFPR - Campus Guarapuava.
 
