@@ -52,7 +52,7 @@ Para entender como extrair essas informações leia a Seção V a) do artigo aba
 
 Qual a quantidade de memória FLASH e memória RAM será necessária para cada um dos motes? Qual dos três motes deverá dispor de mais memória para o seu código? 
 
-<details><summary></summary>
+<details><summary>Resolução</summary>
 
 Resolução por [Felipe Kosouski](https://www.linkedin.com/in/felipe-kosouski/):
 
