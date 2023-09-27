@@ -54,7 +54,7 @@ Qual a quantidade de memória FLASH e memória RAM será necessária para cada u
 
 <details><summary></summary>
 
-Resolução por [Felipe Kosouski](https://www.linkedin.com/in/felipe-kosouski/)
+Resolução por [Felipe Kosouski](https://www.linkedin.com/in/felipe-kosouski/):
 
 z1
 flash -> 49702
@@ -77,3 +77,4 @@ utiliza menos flash. Porem, o micaZ é o que usará menos RAM.
 
 ![](res3.png)
 
+</details>
