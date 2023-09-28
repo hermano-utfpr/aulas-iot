@@ -66,12 +66,12 @@ Note que a saída dos motes será semelhante a esta:
 
 Resolução por [Taylor Sobjak](https://www.linkedin.com/in/taylorsobjak/):
 
-![](res1.png)
-
 [mote1.c](mote1.c)
 
 [mote2.c](mote2.c)
 
 [mote3.c](mote3.c)
+
+![](res1.png)
 
 </details>
