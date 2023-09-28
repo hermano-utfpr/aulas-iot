@@ -37,7 +37,7 @@ static void sent_uc(struct unicast_conn *c, int status, int num_tx) {
   if(linkaddr_cmp(dest, &linkaddr_null)) {
     return;
   }
-  printf("Mote Emissor de Fulano: quadro unicast enviado para %d.%d: status %d num_tx %d (barra-n)", dest->u8[0], dest->u8[1], status, num_tx);
+  printf("Mote Emissor de Fulano: quadro unicast enviado para %d.%d: status %d num_tx %d \n", dest->u8[0], dest->u8[1], status, num_tx);
 }
 static const struct unicast_callbacks unicast_callbacks = {recv_uc, sent_uc};
 static struct unicast_conn uc;
@@ -75,7 +75,7 @@ Crie o código do nó receptor, que receberá o quadro via Unicast:
 PROCESS(processo_receptor, "Exemplo Unicast Receptor");
 AUTOSTART_PROCESSES(&processo_receptor);
 static void recv_uc(struct unicast_conn *c, const linkaddr_t *from) {
-  printf("Mote Receptor de Fulano: quadro recebido de %d.%d (barra-n)",from->u8[0], from->u8[1]);
+  printf("Mote Receptor de Fulano: quadro recebido de %d.%d \n",from->u8[0], from->u8[1]);
 }
 static void sent_uc(struct unicast_conn *c, int status, int num_tx) {
 }
