@@ -139,5 +139,3 @@ Resolução por [Matheus Mazepa](https://www.linkedin.com/in/matheus-mazepa/)
 
 </details>
 
-
-
