@@ -2,6 +2,8 @@
 
 Objetivo: aprender a configurar uma rede IoT com o protocolo RPL e fazer a comunicação entre os nós com o protocolo UDP. 
 
+Slides para compreender o [RPL](rpl.pdf).
+
 **Passo 1 - Codificar**
 
 Em uma pasta qualquer criar três arquivos para o código-fonte dos três nós, sugestão:
@@ -71,8 +73,6 @@ Carregue e execute o projeto no simulador COOJA.
 - Verifique se os nós possuem alcance entre eles, pois poderão não se comunicar.
 - Você pode salvar a sua simulação, se quiser, na mesma pasta.
 
-Slides para compreender [6LoWPAN](6lowpan.pdf).
-
 **Passo 4 - Endereçamento dos Nós**
 
 Para os nós receberem um endereço IP é preciso incluir as seguintes bibliotecas.
@@ -110,8 +110,6 @@ Caso queira atribuir um endereço IP estático, configure:
 Note que o endereço IPv6 está zerado, você deve decidir como endereçar cada um dos nós.
 
 **Passo 6 - Roteamento com RPL**
-
-Slides para compreender [RPL](rpl.pdf).
 
 Por padrão os nós já estão rodando RPL, basta definir o nó raiz. Configure o nó 1 (sink.c).
 
