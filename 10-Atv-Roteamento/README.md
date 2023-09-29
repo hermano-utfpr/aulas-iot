@@ -32,7 +32,7 @@ PROCESS_THREAD(skel_process, ev, data)
 
   PROCESS_BEGIN();
 
-  printf ("Esqueleto funcionando![barra-n]");
+  printf ("Esqueleto funcionando!\n");
 
   PROCESS_END();
 
@@ -70,6 +70,8 @@ Carregue e execute o projeto no simulador COOJA.
 - Adicione Motes do tipo Z1, e para cada Mote selecione o código-fonte correspondente.
 - Verifique se os nós possuem alcance entre eles, pois poderão não se comunicar.
 - Você pode salvar a sua simulação, se quiser, na mesma pasta.
+
+Slides para compreender [6LoWPAN](6lowpan.pdf).
 
 **Passo 4 - Endereçamento dos Nós**
 
@@ -227,7 +229,7 @@ Configure o nó 3 (receiver.c) para receber e imprimir as mensagens via UDP:
 
          appdata[uip_datalen()] = 0;
 
-         printf("%s [barra-n]",appdata);
+         printf("%s \n",appdata);
 
       } 
 
@@ -249,7 +251,7 @@ No passo 5 pode ser interessante associar o endereço IPv6 ao número do nó dur
 
 ...
 
-   printf("id deste no: %d [barra-n]",node_id);
+   printf("id deste no: %d \n",node_id);
 
 ...
 
