@@ -2,13 +2,13 @@
 
 Objetivo: compreender a codificação em C de um nó.
 
+[Slides usados em aula](iot_programacao.pdf).
+
 **Passo 1**
 
 Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorials/Running-Contiki-NG-in-Cooja.html).
 
 **Passo 2 - Programar duas Threads**
-
-[Slides usados em aula](iot_programacao.pdf).
 
 Utilize o código abaixo do sistema Contiki em um Mote Sky:
 
