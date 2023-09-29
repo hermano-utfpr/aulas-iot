@@ -8,6 +8,8 @@ Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorial
 
 **Passo 2**
 
+[Slides utilizados em aula](iot_so.pdf).
+
 Preparar o Sistema Operacional TinyOS para rodar em um mote Sky.
 
 Se você está utilizando o livelinux xbnet execute os seguintes passos para preparar o ambiente:
