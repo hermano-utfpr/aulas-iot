@@ -2,13 +2,13 @@
 
 Objetivo: executar diferentes sistemas operacionais de Internet das Coisas no simulador Cooja. 
 
+[Slides utilizados em aula](iot_so.pdf).
+
 **Passo 1**
 
 Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorials/Running-Contiki-NG-in-Cooja.html).
 
 **Passo 2**
-
-[Slides utilizados em aula](iot_so.pdf).
 
 Preparar o Sistema Operacional TinyOS para rodar em um mote Sky.
 
