@@ -8,6 +8,8 @@ Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorial
 
 **Passo 2 - Programar duas Threads**
 
+[Slides usados em aula](iot_programacao.pdf).
+
 Utilize o código abaixo do sistema Contiki em um Mote Sky:
 
 -> mote.c
