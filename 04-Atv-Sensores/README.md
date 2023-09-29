@@ -8,6 +8,8 @@ Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorial
 
 **Passo 2 - Mote 1 - Sensor de Temperatura**
 
+[Slides utilizados em aula](iot_sensors.pdf).
+
 Utilize o código abaixo do sistema Contiki em um Mote Sky:
 
 -> mote1.c
