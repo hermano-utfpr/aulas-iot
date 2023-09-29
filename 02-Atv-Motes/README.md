@@ -2,6 +2,8 @@
 
 Objetivo: executar a simulação de hardwares MicaZ, TMoteSky e Z1 na ferramenta COOJA. E, ainda, descobrir qual a quantidade de memória necessária em um mote para executar um código em C. 
 
+[Slides utilizados em aula](iot_hardware.pdf).
+
 **Passo 1**
 
 Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorials/Running-Contiki-NG-in-Cooja.html).
