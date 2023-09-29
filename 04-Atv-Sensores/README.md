@@ -2,13 +2,13 @@
 
 Objetivo: configurar três motes para imprimir valores capturados de sensores. 
 
+[Slides utilizados em aula](iot_sensors.pdf).
+
 **Passo 1**
 
 Instale a ferramenta [Cooja](https://docs.contiki-ng.org/en/develop/doc/tutorials/Running-Contiki-NG-in-Cooja.html)
 
 **Passo 2 - Mote 1 - Sensor de Temperatura**
-
-[Slides utilizados em aula](iot_sensors.pdf).
 
 Utilize o código abaixo do sistema Contiki em um Mote Sky:
 
