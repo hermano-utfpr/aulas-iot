@@ -109,6 +109,8 @@ Note que o endereço IPv6 está zerado, você deve decidir como endereçar cada 
 
 **Passo 6 - Roteamento com RPL**
 
+Slides para compreender [RPL](rpl.pdf).
+
 Por padrão os nós já estão rodando RPL, basta definir o nó raiz. Configure o nó 1 (sink.c).
 
 ```
